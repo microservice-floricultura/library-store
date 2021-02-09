@@ -11,7 +11,7 @@
 	<groupId>br.com.store</groupId>
 	<artifactId>library</artifactId>
 	<version>1.0.0</version>
-	<name>library</name>
+	<name>library</name> 
 	<description>Biblioteca da Loja</description>
 	<properties>
 		<java.version>11</java.version>
